@@ -1,0 +1,4 @@
+[submodule "submodules/TanStack/query"]
+	path = submodules/TanStack/query
+	url = git@github.com:TanStack/query.git
+	branch = main
