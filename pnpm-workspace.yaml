@@ -1,3 +1,3 @@
 packages:
-  - "examples/*"
+  - "submodules/TanStack/query/examples/react/rick-morty"
   - "packages/*"
